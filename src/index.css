@@ -3,6 +3,13 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Ribeye+Marrow&display=swap');
+
+body {
+   font-family: "Ribeye Marrow", serif;
+  font-weight: 400;
+  font-style: normal;
+}
 
 /* Global styles */
 @keyframes rainbow {

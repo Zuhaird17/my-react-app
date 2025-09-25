@@ -2,8 +2,8 @@
 
 export function Header() {
   return (
-    <header className="bg-slate-300 opacity-40 w-full h-[100px] flex items-center justify-center">
-      <h1 className="text-6xl font-bold text-center text-white space-x-1">
+    <header className="bg-slate-200 w-full h-[100px] flex items-center justify-center">
+      <h1 className="text-6xl font-bold text-center text-white space-x-1 opacity-20">
         {['M', 'Y', ' ', 'C', 'O', 'L', 'O', 'R', ' ', 'R', 'E', 'A', 'C', 'T', ' ', 'A', 'P', 'P'].map((letter, index) => (
           <span
             key={index}
