@@ -8,7 +8,7 @@ Click on any color to see its name displayed!
 ## 📌 Features
 
 - Displays a palette of colors
-- Shows the name of the clicked color when clicked
+- Shows the hex color code of the clicked color with alert
 - Fast and lightweight — powered by Vite
 - Clean and minimal layout
 - Under active development — more features coming soon!
